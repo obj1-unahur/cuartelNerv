@@ -1,5 +1,7 @@
 # Parcial 1 Comisión 3 (2025s2) - Proyecto E: Sincronización con Evas
 
+![alt text](./Evas_Pilotos.jpg)
+
 ## Contexto
 En el cuartel general de NERV, la organización responsable de proteger a la humanidad, se gestionan los EVA Units (gigantes biomecánicos similares a robots tipo mecha) y sus pilotos elegidos. Cada EVA tiene características únicas, y nos va a interesar de cada uno: campo de fuerza AT (usaremos un número), energía, requisitos de sincronización y efectos sobre los puntos de entrenamiento del piloto que lo use. En este modelo solo representaremos 3 EVA y 3 pilotos para simplificar, pero existen otros y pueden surgir nuevos en el futuro que quedan fuera de alcance de esta simulación.  
 
